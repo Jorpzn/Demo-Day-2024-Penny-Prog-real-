@@ -1,0 +1,83 @@
+body{
+    color: rgb(0, 0, 0);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#logo {
+    position: absolute; 
+    top: 23%;
+    margin-left: 58%;
+    z-index: 1000; 
+    width: 45%;
+}
+
+.Welcome{
+    background-color: rgb(238, 216, 16);
+    width: 100%;
+    padding: 5%;
+    color:rgb(0, 0, 0);
+    height: 620px;
+}
+#main_title{
+    font-size: 500%;
+    margin-left: 6%;
+
+}
+
+#motto{
+    color: rgba(255, 211, 13, 0.945);
+    background-color: black;
+    width: 40%;
+    height: 6%;
+    margin-left: 7%;
+    font-size: 210%;
+    padding: 2%;
+    text-decoration: underline rgb(255, 238, 0);
+}
+
+
+#txt{
+    margin-left: 7%;
+    font-size: 150%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+html {
+    scroll-behavior: smooth;
+}
